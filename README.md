@@ -1,6 +1,6 @@
 # cognitivedrift
 
-An AI Agent built by Nader
+An AI Agent built by Govardhan kurli
 
 ![cognitivedriftt](cognitivedriftt.jpg)
 
